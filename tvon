@@ -245,66 +245,11 @@ http://178.212.71.253:8000/play/142/index.m3u8
 http://178.212.71.253:8000/play/137/index.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶",RU.TV
 http://178.212.71.253:8000/play/38/index.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶",M1  UA
-http://188.208.197.173:2101/m1ua/index.m3u8
 
 
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/624303598e45140007d765c1/colorLogoPNG.png" ,MTV Rocks
-https://jmp2.uk/plu-624303598e45140007d765c1.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/6331a4df44111b00076b15f7/colorLogoPNG.png" ,MTV Movie Hits
-https://jmp2.uk/plu-6331a4df44111b00076b15f7.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" ,MTV CLASSICS
-https://jmp2.uk/plu-5f92b56a367e170007cd43f4.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/62beb7a0f9db450007a123c5/colorLogoPNG.png" ,MTV Love Music
-https://jmp2.uk/plu-62beb7a0f9db450007a123c5.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png" ,MTV Music Made in Spain
-https://jmp2.uk/plu-60a26a056d55b30007918d5a.m3u8
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://images.pluto.tv/channels/61c09489197fe600073c0570/colorLogoPNG.png",MTV Unplugged
-https://jmp2.uk/plu-61c09489197fe600073c0570.m3u8
 
 
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE3500002C4_20251028T011242SQUARE.png",Vevo Weihnachten
-https://jmp2.uk/stvp-DE3500002C4
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20250107T024438SQUARE.png",Vevo Schlager Pop
-https://jmp2.uk/stvp-DEBC21000022L
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20251013T235756SQUARE.png",Vevo Rock
-https://jmp2.uk/stvp-USBD3000145P
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20250513T005804SQUARE.png",Vevo Rétro
-https://jmp2.uk/stvp-FRBD1900013CB
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20251013T235753SQUARE.png",Vevo R&B
-https://jmp2.uk/stvp-USBC3900009K5
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC2100001G9_20241022T043927SQUARE.png",Vevo Pop
-https://jmp2.uk/stvp-ITBC2100001G9
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3500001PK_20251028T011429SQUARE.png",Vevo Noël
-https://jmp2.uk/stvp-USBD3300010L9
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES35000016A_20251028T011357SQUARE.png",Vevo Navidad
-https://jmp2.uk/stvp-ES35000016A
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3500001Q6_20251028T010436SQUARE.png",Vevo Natale
-https://jmp2.uk/stvp-IT3500001Q6
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20251013T235748SQUARE.png",Vevo Latino
-https://jmp2.uk/stvp-USBC3600015GF
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20251013T235745SQUARE.png",Vevo Hip-Hop
-https://jmp2.uk/stvp-USBC3600002EK
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD2300001C0_20250107T030829SQUARE.png",Vevo Hip Hop & R&B
-https://jmp2.uk/stvp-GBBD2300001C0
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC52000165E_20251014T000010SQUARE.png",Vevo Country
-https://jmp2.uk/stvp-CABC52000165E
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB35000017V_20251028T010351SQUARE.png",Vevo Christmas
-https://jmp2.uk/stvp-GB35000017V
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20251013T235730SQUARE.png",Vevo '70s
-https://jmp2.uk/stvp-USBD300011KQ
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20251013T235732SQUARE.png",Vevo '80s
-https://jmp2.uk/stvp-USBD300012YC
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20251013T235735SQUARE.png",Vevo '90s
-https://jmp2.uk/stvp-USBD3000133M
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1900009UD_20250107T030827SQUARE.png",Vevo '70s & '80s
-https://jmp2.uk/stvp-GBBD1900009UD
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20241022T043924SQUARE.png",Vevo '90s & '00s
-https://jmp2.uk/stvp-ITBC210000200
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20251013T235740SQUARE.png",Vevo 2K
-https://jmp2.uk/stvp-USBB4400015F5
-#EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20251013T235738SQUARE.png",Vevo 2010s
-https://jmp2.uk/stvp-USBD120002431
+
 
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_44.png",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
@@ -314,6 +259,51 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные 🎶" tvg-logo="https://cdn.powergroup.com.tr/image/360x360/powerapp/channels/v3/logo_2559.png",Power Love
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыкальные 🎶" ,Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+
 
 #EXTINF:-1 group-title="Музыкальные 🎶",МузСоюз
 https://bl.rutube.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=0fkViaXC2VCJDJRpep8IGA&e=2066735731&scheme=https
